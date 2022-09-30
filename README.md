@@ -15,6 +15,8 @@ conda install matplotlib
 
 conda install pandas
 
+conda install seaborn
+
 mglearn через conda не ставится, поэтому ставил через
 
 pip install mglearn 
