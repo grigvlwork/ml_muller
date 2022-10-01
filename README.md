@@ -7,7 +7,7 @@
 
 conda init powershell
 
-В DataSpell установил numpy, matplotlib, pandas, seaborn, mglearn
+В DataSpell установил numpy, matplotlib, pandas, seaborn, graphviz, mglearn
 
 conda install numpy
 
@@ -17,9 +17,15 @@ conda install pandas
 
 conda install seaborn
 
+conda install graphviz
+
+conda install pydotplus
+
 mglearn через conda не ставится, поэтому ставил через
 
 pip install mglearn 
+
+pip install graphviz
 
 потом нужно установить joblib версии 1.1.0
 
