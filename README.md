@@ -7,7 +7,7 @@
 
 conda init powershell
 
-В DataSpell установил numpy, scipy, pandas, mglearn
+В DataSpell установил numpy, matplotlib, pandas, seaborn, mglearn
 
 conda install numpy
 
